@@ -1,3 +1,3 @@
-# vnpt-mini-tool
-## Write document and script for SNOC2 VNPT
+# mobile-network-operation
+## Write document and script with python and web
 ## Remember that is public project so do not write any user/ password, IP or any sensitive data in this document
