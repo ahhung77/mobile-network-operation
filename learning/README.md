@@ -1,1 +1,1 @@
-This place is use to traning!
+This place is use for training!
