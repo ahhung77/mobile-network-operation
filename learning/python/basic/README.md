@@ -5,4 +5,4 @@
 - Section 4: Operator
 - Section 5: Condition and Loop
 - Section 6: Funtion
-- Section 6: I/O
+- Section 6: Input/ Output
