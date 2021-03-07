@@ -1,7 +1,9 @@
 # This place is use for training!
 #### Pyhon
-###### basic
-###### for data analysis
+- Introduce
+- Basic in tutorial module
+- for data analysis
 #### Javascript(future)
-###### basic
-###### create some tool and maybe use everywhere
+- Introduce
+- Basic
+- create some tool and maybe use everywhere
